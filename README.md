@@ -3,7 +3,7 @@
 I recently graduated with a Bachelor's degree in Computer Science. I have a strong foundation in software development, with hands-on experience in various programming languages 
 like C, C++, XML, and JavaScript. I am particularly passionate about front-end design, crafting intuitive and engaging user interfaces that enhance the overall user experience!<br/>
 
-👨‍🎓 Majored in Computer Science at the University of Massachusetts Lowell and minored in Mathematics<br/>
+👨‍🎓 Major in Computer Science at the University of Massachusetts Lowell | Minor in Mathematics<br/>
 👾 Currently interested in front-end UI/UX development for mobile applications using React Native<br/>
 🧮 Created an education game in Unity called [Mathmunition](https://jojojo8359.github.io/SWE-Project/) for middle school students focused on visualizing linear equations<br/>
 
