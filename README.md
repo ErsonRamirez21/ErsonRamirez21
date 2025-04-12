@@ -1,6 +1,6 @@
 ### Hi, I'm Erson!
 
-I recently graduated with a Bachelor's degree in Computer Science. I have a strong foundation in software development, with hands-on experience in various programming languages 
+I graduated in 2024 with a Bachelor's degree in Computer Science. I have a strong foundation in software development, with hands-on experience in various programming languages 
 like C, C++, XML, and JavaScript. I am particularly passionate about front-end design, crafting intuitive and engaging user interfaces that enhance the overall user experience!<br/>
 
 👨‍🎓 Major in Computer Science at the University of Massachusetts Lowell | Minor in Mathematics<br/>
